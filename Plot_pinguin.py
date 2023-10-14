@@ -1,7 +1,5 @@
 import streamlit as st
 import pandas as pd
-import os
-os.chdir('C:\\Users\\Sarwono\\PycharmProjects\\pythonProject1')
 import streamlit as st
 import pandas as pd
 st.title("Palmer's Penguins")
